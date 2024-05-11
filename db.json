@@ -34,6 +34,34 @@
       "createdAt": "2022-03-23T03:55:59.614Z",
       "updatedAt": "2022-03-23T03:55:59.614Z",
       "id": "tweet-1220baa2-2092-4ed8-a72c-91757dc508f7"
+    },
+    {
+      "message": "My first tweet",
+      "userId": "user-15a37948-7712-4e0b-a554-2fef33f31697",
+      "createdAt": "2024-05-11T16:22:35.708Z",
+      "updatedAt": "2024-05-11T16:22:35.709Z",
+      "id": "tweet-b8cac28f-eea5-4151-ab46-a648dd72d180"
+    },
+    {
+      "message": "second Tweet",
+      "userId": "user-15a37948-7712-4e0b-a554-2fef33f31697",
+      "createdAt": "2024-05-11T16:28:40.476Z",
+      "updatedAt": "2024-05-11T16:28:40.476Z",
+      "id": "tweet-2f072176-e4b0-47ff-8205-cc8862ae8e81"
+    },
+    {
+      "message": "third tweet",
+      "userId": "user-15a37948-7712-4e0b-a554-2fef33f31697",
+      "createdAt": "2024-05-11T16:31:47.625Z",
+      "updatedAt": "2024-05-11T16:31:47.625Z",
+      "id": "tweet-8229a1f7-ef10-4d8d-8f87-62ad09644f75"
+    },
+    {
+      "message": "more tweet",
+      "userId": "user-15a37948-7712-4e0b-a554-2fef33f31697",
+      "createdAt": "2024-05-11T16:31:58.888Z",
+      "updatedAt": "2024-05-11T16:31:58.888Z",
+      "id": "tweet-89399285-337b-4001-aa9c-dcc4d08afe1f"
     }
   ],
   "users": [
@@ -146,6 +174,13 @@
       "createdAt": "2022-03-23T03:55:59.617Z",
       "updatedAt": "2022-03-23T03:55:59.617Z",
       "id": "favorite-a4e781ad-1c7b-4e62-b9dd-66b4e36e390b"
+    },
+    {
+      "userId": "user-15a37948-7712-4e0b-a554-2fef33f31697",
+      "tweetId": "tweet-89399285-337b-4001-aa9c-dcc4d08afe1f",
+      "createdAt": "2024-05-11T17:07:39.440Z",
+      "updatedAt": "2024-05-11T17:07:39.440Z",
+      "id": "favorite-d7e51a7c-b4c4-4bf6-af3b-5a2f4741ba99"
     }
   ],
   "hashtagTrends": [
